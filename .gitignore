@@ -40,5 +40,6 @@ sysinfo.txt
 Assets/StreamingAssets/crashlytics-build.properties
 
 # Log File Mushisuru
+Logs/*
 Logs/
 *.log
